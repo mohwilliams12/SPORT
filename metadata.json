@@ -1,0 +1,6 @@
+{
+  "name": "ملاعب كورة",
+  "description": "تطبيق حجز ملاعب كرة القدم للفترتين المسائية والليلية وإدارة الفرق والدردشة وتنسيق المباريات والتحديات",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
